@@ -1,0 +1,30 @@
+[
+  {
+    "package": "coronavirus",
+    "oncran": true
+  },
+  {
+    "package": "covid19italy",
+    "oncran": true
+  },
+  {
+    "package": "covid19sf",
+    "oncran": true
+  },
+  {
+    "package": "TSstudio",
+    "oncran": true
+  },
+  {
+    "package": "UKgrid",
+    "oncran": true
+  },
+  {
+    "package": "USgas",
+    "oncran": true
+  },
+  {
+    "package": "USgrid",
+    "oncran": true
+  }
+]
