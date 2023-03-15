@@ -8,21 +8,6 @@
 	url = https://github.com/ramikrispin/coronavirus
 	shallow = true
 	registered = true
-[submodule "TSstudio"]
-	path = TSstudio
-	url = https://github.com/ramikrispin/tsstudio
-	shallow = true
-	registered = true
-[submodule "UKgrid"]
-	path = UKgrid
-	url = https://github.com/ramikrispin/ukgrid
-	shallow = true
-	registered = true
-[submodule "USgrid"]
-	path = USgrid
-	url = https://github.com/ramikrispin/usgrid
-	shallow = true
-	registered = true
 [submodule "covid19italy"]
 	path = covid19italy
 	url = https://github.com/ramikrispin/covid19italy
@@ -33,8 +18,23 @@
 	url = https://github.com/ramikrispin/covid19sf
 	shallow = true
 	registered = true
+[submodule "TSstudio"]
+	path = TSstudio
+	url = https://github.com/ramikrispin/tsstudio
+	shallow = true
+	registered = true
+[submodule "UKgrid"]
+	path = UKgrid
+	url = https://github.com/ramikrispin/ukgrid
+	shallow = true
+	registered = true
 [submodule "USgas"]
 	path = USgas
 	url = https://github.com/ramikrispin/usgas
+	shallow = true
+	registered = true
+[submodule "USgrid"]
+	path = USgrid
+	url = https://github.com/ramikrispin/usgrid
 	shallow = true
 	registered = true

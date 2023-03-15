@@ -4,18 +4,6 @@
     "oncran": true
   },
   {
-    "package": "TSstudio",
-    "oncran": true
-  },
-  {
-    "package": "UKgrid",
-    "oncran": true
-  },
-  {
-    "package": "USgrid",
-    "oncran": true
-  },
-  {
     "package": "covid19italy",
     "oncran": true
   },
@@ -24,7 +12,19 @@
     "oncran": true
   },
   {
+    "package": "TSstudio",
+    "oncran": true
+  },
+  {
+    "package": "UKgrid",
+    "oncran": true
+  },
+  {
     "package": "USgas",
+    "oncran": true
+  },
+  {
+    "package": "USgrid",
     "oncran": true
   }
 ]
