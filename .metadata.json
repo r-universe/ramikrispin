@@ -1,30 +1,23 @@
 [
   {
-    "package": "coronavirus",
-    "oncran": true
+    "package": "coronavirus"
   },
   {
-    "package": "covid19italy",
-    "oncran": true
+    "package": "covid19italy"
   },
   {
-    "package": "covid19sf",
-    "oncran": true
+    "package": "covid19sf"
   },
   {
-    "package": "TSstudio",
-    "oncran": true
+    "package": "TSstudio"
   },
   {
-    "package": "UKgrid",
-    "oncran": true
+    "package": "UKgrid"
   },
   {
-    "package": "USgas",
-    "oncran": true
+    "package": "USgas"
   },
   {
-    "package": "USgrid",
-    "oncran": true
+    "package": "USgrid"
   }
 ]
