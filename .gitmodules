@@ -18,6 +18,11 @@
 	url = https://github.com/ramikrispin/covid19sf
 	shallow = true
 	registered = true
+[submodule "EIAapi"]
+	path = EIAapi
+	url = https://github.com/ramikrispin/eiaapi
+	shallow = true
+	registered = true
 [submodule "TSstudio"]
 	path = TSstudio
 	url = https://github.com/ramikrispin/tsstudio
