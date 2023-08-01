@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "coronavirus"]
-	path = coronavirus
-	url = https://github.com/ramikrispin/coronavirus
-[submodule "covid19italy"]
-	path = covid19italy
-	url = https://github.com/ramikrispin/covid19italy
-[submodule "covid19sf"]
-	path = covid19sf
-	url = https://github.com/ramikrispin/covid19sf
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/ramikrispin/eiaapi
@@ -26,3 +17,12 @@
 [submodule "USgrid"]
 	path = USgrid
 	url = https://github.com/ramikrispin/usgrid
+[submodule "coronavirus"]
+	path = coronavirus
+	url = https://github.com/ramikrispin/coronavirus
+[submodule "covid19italy"]
+	path = covid19italy
+	url = https://github.com/ramikrispin/covid19italy
+[submodule "covid19sf"]
+	path = covid19sf
+	url = https://github.com/ramikrispin/covid19sf
